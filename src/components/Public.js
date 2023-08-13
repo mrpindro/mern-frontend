@@ -12,12 +12,12 @@ const Public = () => {
             </header>
             <main className="public__main">
                 <p>
-                    Located in Beautiful Downtown Uyo city, Pindro Furnitures 
-                    provides an aesthetically pleasing original wood furnitures
+                    Located in Beautiful Downtown Uyo city, Pindro Notes 
+                    provides an aesthetically pleasing and simple notes taking web apps
                     that would soothe your needs 
                 </p>
                 <address className="public__addr">
-                    Pindro Furnitures <br />
+                    Pindro Notes <br />
                     123 street <br />
                     Uyo city, A. Ibom <br />
                     <a href="+2340123456789">012 345-6789</a>
